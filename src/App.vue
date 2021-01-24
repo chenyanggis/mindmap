@@ -5,7 +5,7 @@
         <v-card outlined class="fill-height" width="100%">
           <v-sheet class="fill-height">
             <v-row no-gutters class="fill-height">
-              <v-col md="9" cols="12" class="d-flex flex-column">
+              <v-col md="11" cols="18" class="d-flex flex-column">
                 <div class="d-flex grey lighten-3">
                   <div class="d-flex px-3 title font-weight-regular align-center"
                     style="height: 48px; width: 100%"
@@ -38,7 +38,7 @@
                   <v-divider vertical></v-divider>
                 </div>
               </v-col>
-              <v-col md="3" cols="12">
+              <v-col md="1" cols="6">
                 <div class="grey lighten-3">
                   <div class="d-flex px-3 title font-weight-regular align-center"
                     style="height: 48px"

@@ -1,8 +1,8 @@
 {
-  "name": "@hellowuxin/mindmap",
-  "version": "2.1.4",
-  "description": "Mindmap Vue Component",
-  "author": "伍鑫",
+  "name": "mindmap_cy",
+  "version": "1.0.1",
+  "description": "Mindmapcytest",
+  "author": "chenyang",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -117,10 +117,6 @@
       "^.+\\.js$": "<rootDir>/node_modules/babel-jest"
     }
   },
-  "bugs": {
-    "url": "https://github.com/hellowuxin/mindmap/issues"
-  },
-  "homepage": "https://github.com/hellowuxin/mindmap#readme",
   "keywords": [
     "mindmap",
     "vue",
